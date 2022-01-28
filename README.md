@@ -5,7 +5,7 @@ Practice space for using the Github Workflow.
 
 Participants:
 
-Coleman, Ben
+PHD Coleman, Ben
 
 Vicente, Elizabeth 
 
