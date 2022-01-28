@@ -6,6 +6,7 @@ Practice space for using the Github Workflow.
 Participants:
 Ben Coleman
 Elizabeth Vicente 
+Kimberly Wolf
 
 ## Setup
 
