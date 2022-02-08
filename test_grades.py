@@ -1,6 +1,9 @@
 
 from grades import compute_hw_average
-
+"""
+Helps with the grades 1
+Especially the average 2 
+"""
 
 def test_zero_grades():
     grades = []
