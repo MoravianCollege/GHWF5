@@ -1,4 +1,5 @@
-Author: Valeria Aguilar
+
+Author: Valeria Aguilar. Elizabeth
 def compute_hw_average(grades):
     if len(grades) == 0:
         return 0
